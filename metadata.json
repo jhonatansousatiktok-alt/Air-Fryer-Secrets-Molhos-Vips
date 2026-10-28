@@ -1,0 +1,6 @@
+{
+  "name": "Air Fryer Secrets & VIP Sauces",
+  "description": "60 Receitas Virais dos EUA + Pack Secreto de 40 Molhos e Dips para Air Fryer com timer sonoro, porções escaláveis e suporte multilíngue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
